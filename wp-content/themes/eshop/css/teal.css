@@ -1,0 +1,94 @@
+::-moz-selection{background-color: #3EA9A1 !important}
+::selection {background-color: #3EA9A1 !important}
+.site-header, .footer-widgets{
+	background-color: #3EA9A1 !important;
+}
+
+.site-header ul.menu li a{
+	color: #fff !important;	
+}
+.site-header ul.menu li li a{
+	color: 	#3EA9A1 !important;
+}
+
+.nav-primary li a:hover, .nav-primary li a:active, .nav-primary li:hover a, .nav-primary .current_page_item a, .nav-primary .current-cat a, .nav-primary .current-menu-item a{
+	color: 	#3EA9A1 !important;
+}
+a, a:visited, .sidebar-secondary li a:hover, .sidebar-secondary li a:active, .sidebar-secondary li:hover a, .sidebar-secondary .current_page_item a, .sidebar-secondary .current-cat a, .sidebar-secondary .current-menu-item a, .flex-caption a h1 , .homeBox h2 a span, .homeBox h2 a, .footer_menu li a:hover, #footer .creds a {
+	color: 	#3EA9A1 !important;
+}
+.box-wrapper .service-icon{
+	color: 	#3EA9A1 !important;
+}
+.pagination li a:hover, .pagination li.active a{
+	background-color: #3EA9A1 !important;
+	border-color: #3EA9A1 !important;
+	color: #fff !important;
+}
+
+.flickr_badge_image img:hover, .element-3col #icon, .element-4col #icon {
+    background: none repeat scroll 0 0 #3EA9A1;
+}
+.list_carousel_nav .list_next, .list_carousel_nav .list_prev, #top-link{
+	background-color: #3EA9A1 !important;
+}
+.woocommerce-main-image img:hover,
+.product_list_widget img:hover, .thumbnails img:hover,
+ul.products li.product:hover a img {
+    background-color: #3EA9A1 !important;
+}
+
+.footer-widgets .widget-area h4{
+	color: #fff !important;	
+}
+
+.cart_icon{
+	color: #fff !important;	
+}
+.top-border,.content .top-border, .feature-bottom h4 span, .front h4 span, #page-title span, .folio-more h4 span{
+    background-color: #3EA9A1;
+}
+
+.navigation li a:hover, .navigation li.active a {
+    background-color: #3EA9A1;
+    border-color: #3EA9A1;
+}
+
+.tagcloud a:hover {
+    background-color: #3EA9A1;
+}
+.widget_product_tag_cloud a{
+	color: #fff !important;	
+}
+.avatar:hover, .featuredpage img:hover, .featuredpost img:hover, img.post-image:hover {
+    background: none repeat scroll 0 0 #3EA9A1;
+}
+
+a.button, a.button:visited, button.button, input.button, input[type="submit"], #respond input#submit,.content input.button, a.shipping-calculator-button, a.view_more, #options li a, #options li a.selected , .comment-reply-link{
+	background-color: #3EA9A1 !important;
+}
+
+.site-header, .flex-direction-nav li a, .footer-widgets, .avatar:hover, .featuredpage img:hover, .featuredpost img:hover, img.post-image:hover, .navigation li a:hover, .navigation li.active a, #options li:first-child a, #options li a:hover, #options li a:active, .widget_price_filter .ui-slider .ui-slider-range{
+	background-color: #3EA9A1 !important;
+}
+
+.flex-direction-nav li .flex-prev, .flex-direction-nav li .flex-next {background-color: #3EA9A1 !important;}.site-header, .site-title a, .site-header .amount, .footer-widgets, .footer-widgets .amount, .navigation li a:hover, .navigation li.active a {
+	color: #fff !important;
+}
+
+.navigation li a:hover, .navigation li.active a{
+	border-color: #3EA9A1 !important;	
+}
+
+.footer-widgets a, #options li:first-child a, #options li a:hover{
+	color: #fff !important;
+}
+
+.element-2col #icon, .gallery-2col #icon, .element-3col #icon, .gallery-3col #icon, .element-4col #icon, .gallery-4col #icon{
+	background-color: rgba(124, 192, 203, 0.66) !important;
+
+}
+
+.element-2col #icon h4 a, .gallery-2col #icon h4 a, .element-3col #icon h4 a, .gallery-3col #icon h4 a, .element-4col #icon h4 a, .gallery-4col #icon h4 a{
+	color: #fff !important;	
+}
